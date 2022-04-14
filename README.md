@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HardikBhojak
+- 👋 Hi, I’m @hardikbhojak
 - 👀 I’m interested in ...Problem solving
 - 🌱 I’m currently learning ...Web development and DS algorith
 - 💞️ I’m looking to collaborate on ...
